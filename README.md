@@ -14,8 +14,7 @@ IP Blacklist Tool : Cisco Packet Tracer
 Attacks Implementation : POD and UDP Flooding
 Software tools : Wireshark, UDP Unicorn
 
+Publication Link is : <a href="https://drive.google.com/file/d/1YoIkm5fKYJUk92LOuFaRU1zWvjy-yB-k/view"> See Publication</a>
 
-<a href="https://drive.google.com/file/d/1YoIkm5fKYJUk92LOuFaRU1zWvjy-yB-k/view"> See Publication</a>
-
-<a href="https://drive.google.com/file/d/17m7rU4MbnoL4_nUI8RWGtWovs_-pFCbn/view"> See Paper Details</a>
+Paper Details : <a href="https://drive.google.com/file/d/17m7rU4MbnoL4_nUI8RWGtWovs_-pFCbn/view"> See Paper Details</a>
 
